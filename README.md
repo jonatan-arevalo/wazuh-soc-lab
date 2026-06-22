@@ -67,6 +67,11 @@ SOC laboratory built to learn log collection, monitoring, alerting and Windows e
 - Windows Event ID 4720
 - Detection of newly created accounts
 
+### Privilege Escalation
+
+- Windows Event ID 4728
+- Detection of group changed
+
 ## Skills Demonstrated
 
 - Wazuh Administration
