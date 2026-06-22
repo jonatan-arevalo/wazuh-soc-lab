@@ -1,0 +1,19 @@
+# Failed Logon Detection
+
+## Event
+
+Windows Event ID 4625
+
+## Description
+
+Multiple failed login attempts were generated.
+
+## Risk
+
+Possible brute force attack.
+
+## Mitigation
+
+- Account lockout policy
+- MFA
+- Monitoring of repeated failures
