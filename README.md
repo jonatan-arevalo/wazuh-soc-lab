@@ -85,7 +85,6 @@ SOC laboratory built to learn log collection, monitoring, alerting and Windows e
 
 - Sysmon integration
 - PowerShell logging
-- Privileged group monitoring
 - Custom detection rules
 
 ## Author
