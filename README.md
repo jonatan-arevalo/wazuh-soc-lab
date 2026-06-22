@@ -39,9 +39,7 @@ SOC laboratory built to learn log collection, monitoring, alerting and Windows e
 
 ## Architecture
 
-WAZUH
-├── DC01 (Agent)
-└── CLIENT01 (Agent)
+![Architecture](screenshots/architecture.png)
 
 ## Screenshots
 
