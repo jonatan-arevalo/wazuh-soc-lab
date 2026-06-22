@@ -7,7 +7,7 @@ SOC laboratory built to learn log collection, monitoring, alerting and Windows e
 ### Infrastructure
 
 - Ubuntu Server 24.04
-- Wazuh 4.x
+- Wazuh 4.12
 - Windows Server 2022
 - Windows 11
 - Active Directory
